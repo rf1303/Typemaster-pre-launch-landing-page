@@ -413,6 +413,7 @@ body {
     grid-template-columns: auto 25.5rem;
     margin-right: 16.5rem;
     margin-left: 0;
+    margin-bottom: 1rem;
   }
   .mechanical__images {
     grid-template-columns: 25.5rem 25.5rem 44.5rem;
