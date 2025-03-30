@@ -55,6 +55,8 @@ form, input, select, textarea, button, label {
   color: inherit;
 }
 
+/* $orange-dark-color: hsl(22, 89%, 52%); */
+/* $grey-light-color: hsl(221, 23%, 58%); */
 @font-face {
   font-family: "barlow";
   src: url("../fonts/Barlow/Barlow-Medium.ttf");
@@ -102,7 +104,7 @@ body {
 .group-tm__buttons:focus {
   background-color: hsl(220, 50%, 17%);
   color: #ffffff;
-  border: 1px solid hsl(221, 23%, 58%);
+  border: 1px solid #4d577a;
 }
 
 .layout__typemaster {
@@ -129,7 +131,7 @@ body {
 .typemaster__lead {
   font-size: 1.6rem;
   font-weight: 500;
-  color: hsl(221, 23%, 58%);
+  color: #4d577a;
   line-height: 1.62;
 }
 
@@ -143,7 +145,7 @@ body {
 .typemaster__buttons {
   border: none;
   border-radius: 0.8rem;
-  background-color: hsl(22, 89%, 52%);
+  background-color: #C74700;
   color: #ffffff;
   font-size: 1.6rem;
   font-weight: 800;
@@ -157,13 +159,13 @@ body {
 .typemaster__buttons:focus {
   background-color: hsl(22, 100%, 69%);
   color: #ffffff;
-  border: 1px solid hsl(22, 89%, 52%);
+  border: 1px solid #C74700;
 }
 
 .typemaster__text {
   font-size: 1.6rem;
   font-weight: 800;
-  color: hsl(221, 23%, 58%);
+  color: #4d577a;
   text-transform: uppercase;
 }
 
@@ -231,7 +233,7 @@ body {
 .mechanical__lead {
   font-size: 1.6rem;
   font-weight: 500;
-  color: hsl(221, 23%, 58%);
+  color: #4d577a;
   text-align: center;
   line-height: 1.62;
 }
@@ -257,7 +259,7 @@ body {
   align-items: center;
   width: 6.5rem;
   height: 6.5rem;
-  background-color: hsl(22, 89%, 52%);
+  background-color: #C74700;
   border-radius: 1rem;
 }
 
@@ -275,14 +277,14 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.62;
-  color: hsl(221, 23%, 58%);
+  color: #4d577a;
   text-align: center;
 }
 
 .footer__text {
   font-size: 1.6rem;
   font-weight: 500;
-  color: hsl(221, 23%, 58%);
+  color: #4d577a;
   text-align: center;
   margin-top: 9rem;
 }
