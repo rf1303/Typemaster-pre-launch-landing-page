@@ -456,9 +456,11 @@ body {
   .features__description {
     height: 32.3rem;
   }
+  .description__image {
+    margin-bottom: 1.5rem;
+  }
   .description__title {
     max-width: 85%;
-    margin-top: 1rem;
   }
 }
 @media screen and (max-width: 320px) {
