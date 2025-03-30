@@ -400,6 +400,11 @@ body {
   }
   .description__title {
     max-width: 85%;
+    align-self: self-end;
+  }
+
+  .layout__footer {
+    padding: 3rem;
   }
 }
 
