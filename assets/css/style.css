@@ -413,7 +413,7 @@ body {
     grid-template-columns: auto 25.5rem;
     margin-right: 16.5rem;
     margin-left: 0;
-    margin-top: 1rem;
+    margin-top: 0.5rem;
   }
   .mechanical__images {
     grid-template-columns: 25.5rem 25.5rem 44.5rem;
@@ -446,7 +446,7 @@ body {
     text-align: left;
   }
   .layout__features {
-    margin-top: 11.1rem;
+    margin-top: 1rem;
     grid-template-columns: repeat(4, 25.5rem);
     justify-content: center;
     gap: 3rem;
