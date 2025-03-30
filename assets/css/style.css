@@ -367,6 +367,7 @@ body {
 }
 @media (min-width: 1439px) {
   .layout__group-tm {
+    margin-top: 5.5rem;
     margin-inline: 16.5rem;
   }
   .layout__typemaster {
