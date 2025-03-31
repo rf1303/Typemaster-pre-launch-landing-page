@@ -452,7 +452,7 @@ body {
     justify-content: center;
     gap: 3rem;
     margin-inline: 0;
-    margin-bottom: 12.4rem;
+    margin-bottom: 13rem;
   }
   .features__description {
     height: 32.3rem;
@@ -462,7 +462,7 @@ body {
     align-self: self-end;
   }
   .layout__footer {
-    padding-bottom: 3.5rem;
+    padding-bottom: 4rem;
   }
 }
 @media screen and (max-width: 320px) {
